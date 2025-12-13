@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/wcky/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-# Hey there, I'm George
+# ⌁ Hey there, I'm George ⌁
 
 I am working towards a locally connected world through addiction cessation, education, and rewilding. I am currently studying full-time, and volunteering away the remainder.
 
